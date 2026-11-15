@@ -1,0 +1,11 @@
+Demanda total del día: 76 pacientes
+Flujo máximo (pacientes atendidos): 44
+Demanda sin atender: 32
+Caminos de aumento: 8
+Capacidad del corte mínimo: 44 (igual al flujo máximo)
+Aristas del corte mínimo (cuellos de botella):
+  odontólogo 1 -> sumidero  capacidad 9
+  odontólogo 2 -> sumidero  capacidad 9
+  odontólogo 3 -> sumidero  capacidad 8
+  odontólogo 4 -> sumidero  capacidad 9
+  odontólogo 5 -> sumidero  capacidad 9

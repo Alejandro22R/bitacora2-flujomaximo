@@ -1,0 +1,13 @@
+{
+  "python": "3.13.18",
+  "implementacion": "CPython",
+  "sistema": "Linux-6.18.44-fc-v470-x86_64-with-glibc2.39",
+  "cpu": "Intel(R) Xeon(R) Processor @ 2.30GHz",
+  "nucleos_logicos": 2,
+  "ram_gb": 7.8,
+  "networkx": "3.7",
+  "semilla": 2026,
+  "repeticiones": 5,
+  "grado_medio": 5,
+  "fecha": "2026-11-14"
+}
